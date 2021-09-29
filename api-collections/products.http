@@ -1,0 +1,34 @@
+@baseUrl=http://localhost:3000/api
+@resourceName=products
+
+# products
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+###  
+# @name filterProducts
+GET {{baseUrl}}/{{resourceName}}?color=olive&price_lte=500
+
+###  
+# @name filterLike
+GET {{baseUrl}}/{{resourceName}}?name_like=concrete 
+
+###  
+# @name pagination
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=5
+# -> còn thiếu phần trả về thông tin của pagination
+
+
+###  
+# @name sort
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=asc
+
+### 
+# @name add
+POST {{baseUrl}}/{{resourceName}}/
+Content-Type: application/json
+
+{
+  "name": "Laptop" 
+}
