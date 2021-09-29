@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "id": "a98938a0-cc61-43cf-a37f-31540582f48b",
+      "name": "Kids",
+      "createdAt": 1632906826616,
+      "updatedAt": 1632906826616
+    },
+    {
+      "id": "e9962e6a-c778-4618-8ede-f35d45201cf7",
+      "name": "Health",
+      "createdAt": 1632906826616,
+      "updatedAt": 1632906826616
+    },
+    {
+      "id": "c4e30a3d-b83a-4e21-82e9-1ef81e982fc9",
+      "name": "Grocery",
+      "createdAt": 1632906826616,
+      "updatedAt": 1632906826616
+    },
+    {
+      "id": "e79edb6b-0f46-4ac4-8c29-8c4808deafe4",
+      "name": "Home",
+      "createdAt": 1632906826617,
+      "updatedAt": 1632906826617
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "a98938a0-cc61-43cf-a37f-31540582f48b",
+      "id": "74012658-5fd7-412a-9187-c10269f6e0e0",
+      "name": "Small Concrete Cheese",
+      "color": "tan",
+      "price": 957,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826618,
+      "updatedAt": 1632906826618
+    },
+    {
+      "categoryId": "a98938a0-cc61-43cf-a37f-31540582f48b",
+      "id": "4d549f16-61d4-4ddd-92b6-8f4c12e30270",
+      "name": "Tasty Concrete Keyboard",
+      "color": "violet",
+      "price": 412,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826618,
+      "updatedAt": 1632906826618
+    },
+    {
+      "categoryId": "a98938a0-cc61-43cf-a37f-31540582f48b",
+      "id": "508b1d8f-7993-4140-9ec1-6978144d70d5",
+      "name": "Handmade Metal Bacon",
+      "color": "plum",
+      "price": 883,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826619,
+      "updatedAt": 1632906826619
+    },
+    {
+      "categoryId": "a98938a0-cc61-43cf-a37f-31540582f48b",
+      "id": "10592515-ba85-481d-8a82-839da02d84a6",
+      "name": "Unbranded Rubber Table",
+      "color": "ivory",
+      "price": 852,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826619,
+      "updatedAt": 1632906826619
+    },
+    {
+      "categoryId": "a98938a0-cc61-43cf-a37f-31540582f48b",
+      "id": "77c7c7a2-8ef5-44a1-a586-2a0b796fea01",
+      "name": "Incredible Cotton Cheese",
+      "color": "mint green",
+      "price": 392,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826620,
+      "updatedAt": 1632906826620
+    },
+    {
+      "categoryId": "e9962e6a-c778-4618-8ede-f35d45201cf7",
+      "id": "cc048383-cbad-473e-b566-cc4021bfcb14",
+      "name": "Practical Concrete Ball",
+      "color": "red",
+      "price": 415,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826620,
+      "updatedAt": 1632906826620
+    },
+    {
+      "categoryId": "e9962e6a-c778-4618-8ede-f35d45201cf7",
+      "id": "e06f2c0b-200f-418b-8b4d-8b921c68ec3f",
+      "name": "Incredible Metal Sausages",
+      "color": "yellow",
+      "price": 288,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826621,
+      "updatedAt": 1632906826621
+    },
+    {
+      "categoryId": "e9962e6a-c778-4618-8ede-f35d45201cf7",
+      "id": "5f3011f8-9d7a-4d5b-83e6-61a35add6b7d",
+      "name": "Licensed Frozen Pizza",
+      "color": "fuchsia",
+      "price": 446,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826621,
+      "updatedAt": 1632906826621
+    },
+    {
+      "categoryId": "e9962e6a-c778-4618-8ede-f35d45201cf7",
+      "id": "391a01fa-97ae-4adb-a0d9-def313256872",
+      "name": "Generic Granite Tuna",
+      "color": "turquoise",
+      "price": 836,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826621,
+      "updatedAt": 1632906826621
+    },
+    {
+      "categoryId": "e9962e6a-c778-4618-8ede-f35d45201cf7",
+      "id": "b3273e59-3f36-4652-b2f2-c76ae8a5e473",
+      "name": "Gorgeous Concrete Fish",
+      "color": "silver",
+      "price": 360,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826622,
+      "updatedAt": 1632906826622
+    },
+    {
+      "categoryId": "c4e30a3d-b83a-4e21-82e9-1ef81e982fc9",
+      "id": "e5b803ee-27cb-4fcd-b9bc-0da9614992fc",
+      "name": "Awesome Steel Car",
+      "color": "maroon",
+      "price": 137,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826622,
+      "updatedAt": 1632906826622
+    },
+    {
+      "categoryId": "c4e30a3d-b83a-4e21-82e9-1ef81e982fc9",
+      "id": "3bf947c3-f5ef-4549-ba7d-d2cec5efee71",
+      "name": "Incredible Granite Bacon",
+      "color": "orchid",
+      "price": 952,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826623,
+      "updatedAt": 1632906826623
+    },
+    {
+      "categoryId": "c4e30a3d-b83a-4e21-82e9-1ef81e982fc9",
+      "id": "62dcde4f-09f6-4fb1-a5fa-9b3e9a10843c",
+      "name": "Sleek Rubber Chicken",
+      "color": "turquoise",
+      "price": 659,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826623,
+      "updatedAt": 1632906826623
+    },
+    {
+      "categoryId": "c4e30a3d-b83a-4e21-82e9-1ef81e982fc9",
+      "id": "9bbfa686-d813-4586-97ff-26bf4b921cea",
+      "name": "Incredible Cotton Gloves",
+      "color": "lavender",
+      "price": 70,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826623,
+      "updatedAt": 1632906826623
+    },
+    {
+      "categoryId": "c4e30a3d-b83a-4e21-82e9-1ef81e982fc9",
+      "id": "7227e735-1b29-4500-9067-4a0cc5aeafed",
+      "name": "Incredible Rubber Towels",
+      "color": "teal",
+      "price": 502,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826624,
+      "updatedAt": 1632906826624
+    },
+    {
+      "categoryId": "e79edb6b-0f46-4ac4-8c29-8c4808deafe4",
+      "id": "5303ffb6-e9c6-4d8d-a375-c7dfc4808850",
+      "name": "Fantastic Soft Computer",
+      "color": "teal",
+      "price": 580,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826624,
+      "updatedAt": 1632906826624
+    },
+    {
+      "categoryId": "e79edb6b-0f46-4ac4-8c29-8c4808deafe4",
+      "id": "fd864eaf-019f-4b61-ab4a-f4a401a8ad70",
+      "name": "Rustic Cotton Soap",
+      "color": "cyan",
+      "price": 427,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826625,
+      "updatedAt": 1632906826625
+    },
+    {
+      "categoryId": "e79edb6b-0f46-4ac4-8c29-8c4808deafe4",
+      "id": "b54dba16-41f1-4a4c-80c2-c9bef468190e",
+      "name": "Refined Soft Soap",
+      "color": "violet",
+      "price": 80,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826625,
+      "updatedAt": 1632906826625
+    },
+    {
+      "categoryId": "e79edb6b-0f46-4ac4-8c29-8c4808deafe4",
+      "id": "8424d775-b0b8-4c9e-a80e-390891503fc5",
+      "name": "Fantastic Granite Keyboard",
+      "color": "black",
+      "price": 675,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826626,
+      "updatedAt": 1632906826626
+    },
+    {
+      "categoryId": "e79edb6b-0f46-4ac4-8c29-8c4808deafe4",
+      "id": "20c084f3-0e1e-4421-9f65-e5a464ae6652",
+      "name": "Incredible Rubber Chicken",
+      "color": "turquoise",
+      "price": 16,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906826627,
+      "updatedAt": 1632906826627
+    },
+    {
+      "categoryId": "a98938a0-cc61-43cf-a37f-31540582f48b",
+      "name": "Ha Quang",
+      "color": "tan",
+      "price": 999,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "thumbnail": "http://placeimg.com/400/400",
+      "createdAt": 1632906934422,
+      "updatedAt": 1632907072228,
+      "id": "aUl_eo_"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}

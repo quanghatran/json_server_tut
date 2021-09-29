@@ -8,7 +8,7 @@ GET {{baseUrl}}/{{resourceName}}
 
 ###  
 # @name filterProducts
-GET {{baseUrl}}/{{resourceName}}?color=olive&price_lte=500
+GET {{baseUrl}}/{{resourceName}}?name=Quang Ha
 
 ###  
 # @name filterLike
@@ -25,10 +25,25 @@ GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=5
 GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=asc
 
 ### 
-# @name add
+# @name addNew
 POST {{baseUrl}}/{{resourceName}}/
 Content-Type: application/json
 
 {
-  "name": "Laptop" 
+    "categoryId": "a98938a0-cc61-43cf-a37f-31540582f48b",
+    "name": "Quang Ha",
+    "color": "tan",
+    "price": 957,
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "thumbnail": "http://placeimg.com/400/400"
+}
+
+### 
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/aUl_eo_
+Content-Type: application/json
+
+{
+    "name": "Ha Quang",
+    "price": 999
 }

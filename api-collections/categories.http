@@ -1,0 +1,16 @@
+@baseUrl = http://localhost:3000/api
+
+
+# categories
+
+# @name getAllCategories
+GET {{baseUrl}}/categories
+###  
+
+# @name addNewCategory
+POST {{baseUrl}}/categories/
+Content-Type: application/json
+
+{
+  "name": "Laptop" 
+}
